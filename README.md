@@ -1,7 +1,6 @@
-### Hi there, I'm Binod Mathews - aka [codeSTACKr][website] 👋
+### Hi there, I'm Binod Mathews 👋
 
 [![Website](https://img.shields.io/badge/Binod%20Mathews-BM-brightgreen?style=for-the-badge&logo=appveyor)][linkedin]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Cloud and Devops Engineer !!
 
