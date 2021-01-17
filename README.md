@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://github-profile-spotify.binodmathews93.vercel.app/api/spotify-playing" alt="Binod Spotify Playing" width="350" />](https://open.spotify.com/user/pnu95sbkqv0hl5h8syovj3f9k)
+[<img src="https://https://now-playing-nine.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/pnu95sbkqv0hl5h8syovj3f9k)
 
 ### Connect with me:
 
